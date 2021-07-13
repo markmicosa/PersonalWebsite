@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(173, 0, 87);
+  background-color: rgb(22, 22, 22);
+
+  max-width: 48rem;
+  min-width: 16rem;
+  margin: auto;
+  border: none;
+  padding: 3rem;
+}
+
+h1 {
+    color: rgb(173, 0, 87);
+    font-size: 3rem;
+}
+
+p {
+    color: rgb(209, 209, 209);
+}
+
+a:link {
+  color: #52dcf5;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover,
+a:active {
+  color: #eeca00;
+}
+
+a:visited {
+  color: #52dcf5;
+}
+
+address {
+  font-style: normal;
+}
+
+footer {
+  text-align: center;
+  padding: 50px;
+  color: rgb(209, 209, 209);
+}
+
